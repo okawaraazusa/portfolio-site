@@ -60,6 +60,19 @@ header {
 nav {
   width: 900px;
   height: 60px;
+  text-align: right;
+}
+
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-end;
+  gap: 20px;
+}
+/* nav {
+  width: 900px;
+  height: 60px;
 }
 
 nav ul {
@@ -68,7 +81,7 @@ nav ul {
   padding: 0;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
-}
+} */
 
 nav li {
   display: block;
