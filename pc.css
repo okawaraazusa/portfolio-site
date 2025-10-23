@@ -43,9 +43,9 @@ header {
   gap: 10%;
 }
 
-#site-logo {
-  width: 200px;
-  height: 40px;
+#site-logo img{
+  width: 100px;
+  height: 1000px;
 }
 
 #background {
