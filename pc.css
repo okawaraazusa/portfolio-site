@@ -44,8 +44,9 @@ header {
 }
 
 #site-logo img{
-  width: 100px;
-  height: 100px;
+  margin-top: -40px;
+  width: 200px;
+  height: 160px;
 }
 
 #background {
